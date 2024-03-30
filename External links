@@ -1,19 +1,18 @@
 
-
-    Alien Autopsy, reverse engineering Win32 Trojans on Linux by Joe Stewart (LURHQ)
-    Class informer IDA plug-in by Sirmabus to reconstruct C++ classes using the RTTI info
-    x86 Emulator Plugin for IDA by Chris Eagle (NPS)
-    Attacking Obfuscated Code with IDA by Chris Eagle (NPS/BlackHat)
-    The very nice collection of papers from the WISA team.
-    Overview of the WISA Infrastructure (University of Wisconsin, Pr Jah, Reps, Miller)
-    Install Time Vaccination of Windows Executables... Nebenzahl, Wool
-    Detection of Injected, Dynamically Generated, and Obfuscated Malicious Code by Rabek and al (MIT)
-    Reverse Engineering and Program Understanding by Greg Hoglund
-    Reverse Engineering Malware by Lenny Zeltser
-    Software Protection and Application Security: Understanding the Battleground by Main, Van Oorschot.
-    Software Watermarking Via Assembly Code Transformations by Smita Thaker
-    Introduction to IDA Python by Ero Carrera
-    Digital Genome Mapping and Advanced Binary Malware Analysis by Ero Carrera and Gergely Erdélyi
-    Articles on RCE.ORG by various authors
-
-
+                             <ul class="list">
+                                <li><a href="https://www.symantec.com/connect/articles/alien-autopsy-reverse-engineering-win32-trojans-linux">Alien Autopsy, reverse engineering Win32 Trojans on Linux</a> by Joe Stewart (LURHQ)</li>
+                                <li><a href="http://www.openrce.org/blog/view/1344/Class_Informer_IDA_plug-in">Class informer IDA plug-in </a>by Sirmabus to reconstruct C++ classes using the RTTI info</li>
+                                <li><a href="http://ida-x86emu.sourceforge.net/codecon04.pdf">x86 Emulator Plugin for IDA</a> by Chris Eagle (NPS)</li>
+                                <li><a href="https://www.blackhat.com/presentations/bh-usa-04/bh-us-04-eagle.pdf">Attacking Obfuscated Code with IDA</a> by Chris Eagle (NPS/BlackHat)</li>
+                                <li>The very <a href="http://www.cs.wisc.edu/wisa/papers/index.html">nice collection of papers from the WISA team</a>.</li>
+                                <li><a href="http://www.cs.wisc.edu/wisa/presentations/2003/1113/arch.03.1113.pdf">Overview of the WISA Infrastructure </a> (University of Wisconsin, Pr Jah, Reps, Miller)</li>
+                                <li><a href="https://dl.acm.org/citation.cfm?id=1115797">Install Time Vaccination of Windows Executables</a>... Nebenzahl, Wool</li>
+                                <li><a href="https://dl.acm.org/citation.cfm?id=948201&amp;dl=ACM&amp;coll=DL&amp;CFID=43490423&amp;CFTOKEN=23133226">Detection of Injected, Dynamically Generated, and Obfuscated Malicious Code</a> by Rabek and al (MIT)</li>
+                                <li><a href="http://awprofessional.com/content/images/0201786958/samplechapter/hoglundch03.pdf">Reverse Engineering and Program Understanding</a> by Greg Hoglund</li>
+                                <li><a href="https://www.zeltser.com/reverse-malware-paper/reverse-malware.pdf">Reverse Engineering Malware</a> by Lenny Zeltser</li>
+                                <li><a href="https://www.scs.carleton.ca/%7Epaulv/papers/softprot8a.pdf">Software Protection and Application Security: Understanding the Battleground</a> by Main, Van Oorschot.</li>
+                                <li><a href="http://www.cs.sjsu.edu/faculty/stamp/students/cs298ReportSmita.pdf">Software Watermarking Via Assembly Code Transformations</a> by Smita Thaker</li>
+                                <li><a href="http://www.openrce.org/articles/full_view/11">Introduction to IDA Python</a> by Ero Carrera</li>
+                                <li><a href="http://www.f-secure.com/weblog/archives/carrera_erdelyi_VB2004.pdf">Digital Genome Mapping and Advanced Binary Malware Analysis</a> by Ero Carrera and Gergely Erdélyi</li>
+                                <li><a href="http://www.openrce.org/articles/">Articles on RCE.ORG</a> by various authors</li>
+                            </ul>
