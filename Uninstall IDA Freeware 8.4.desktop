@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=0.9.4
+Name=Uninstall IDA Freeware 8.4
+Comment=Uninstall
+Icon=
+Exec=/opt/idafree-8.4/uninstall
+Terminal=false
+Path=/opt/idafree-8.4
