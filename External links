@@ -1,1 +1,19 @@
 
+
+    Alien Autopsy, reverse engineering Win32 Trojans on Linux by Joe Stewart (LURHQ)
+    Class informer IDA plug-in by Sirmabus to reconstruct C++ classes using the RTTI info
+    x86 Emulator Plugin for IDA by Chris Eagle (NPS)
+    Attacking Obfuscated Code with IDA by Chris Eagle (NPS/BlackHat)
+    The very nice collection of papers from the WISA team.
+    Overview of the WISA Infrastructure (University of Wisconsin, Pr Jah, Reps, Miller)
+    Install Time Vaccination of Windows Executables... Nebenzahl, Wool
+    Detection of Injected, Dynamically Generated, and Obfuscated Malicious Code by Rabek and al (MIT)
+    Reverse Engineering and Program Understanding by Greg Hoglund
+    Reverse Engineering Malware by Lenny Zeltser
+    Software Protection and Application Security: Understanding the Battleground by Main, Van Oorschot.
+    Software Watermarking Via Assembly Code Transformations by Smita Thaker
+    Introduction to IDA Python by Ero Carrera
+    Digital Genome Mapping and Advanced Binary Malware Analysis by Ero Carrera and Gergely Erdélyi
+    Articles on RCE.ORG by various authors
+
+
